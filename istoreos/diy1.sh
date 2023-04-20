@@ -33,5 +33,11 @@
 # clone N1HK1dabao
 #git clone https://github.com/Netflixxp/N1HK1dabao.git N1HK1dabao
 
+
+
+
 # kernel version
 #sed -i 's/5.15/5.4/g' target/linux/x86/Makefile
+
+
+git clone https://github.com/WarlockFish/rtl8822bu.git package/kernel/
