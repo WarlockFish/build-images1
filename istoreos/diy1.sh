@@ -40,4 +40,4 @@
 #sed -i 's/5.15/5.4/g' target/linux/x86/Makefile
 
 
-git clone https://github.com/WarlockFish/rtl8822bu.git package/kernel/
+# git clone https://github.com/WarlockFish/rtl8822bu.git package/kernel/
